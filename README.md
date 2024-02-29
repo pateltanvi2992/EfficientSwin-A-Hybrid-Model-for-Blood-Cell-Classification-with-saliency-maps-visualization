@@ -33,3 +33,11 @@ python EfficientSwin.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig traini
 ## Comparison with Previous models on blood cell calssification
 ![results](Hybrid_model_compare.PNG)
 
+## Comparison with previoud models on bloodMNIST dataset
+![results](Table_compare_BloodMNIST.PNG)
+
+
+## REFERENCES
+
+
+
