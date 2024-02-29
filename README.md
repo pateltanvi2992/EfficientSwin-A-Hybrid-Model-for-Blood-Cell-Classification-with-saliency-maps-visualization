@@ -62,7 +62,7 @@ python EfficientSwin_proposed.py --batch_size 32 --epochs 35 --lr 0.001 --save_f
 ![results](Table_compare_BloodMNIST.PNG)
 
 ## Saliency map on test set
-![results](saliency_maps (2).png)
+![results](saliency_maps.png)
 
 
 ## REFERENCES
