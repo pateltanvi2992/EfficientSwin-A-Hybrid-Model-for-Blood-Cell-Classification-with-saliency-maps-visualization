@@ -48,7 +48,7 @@ python python EfficientNet_b3.py --batch_size 32 --epochs 35 --lr 0.001 --save_f
 ## Evaluation
 Download the pretrained weights and run the following command for evaluation and training of proposed hybrid model on bloodMNIST dataset.
 ```shell
-python EfficientSwin.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig training_validation_accuracy.png
+python EfficientSwin_proposed.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig training_validation_accuracy.png
 ```
 <hr />
 
