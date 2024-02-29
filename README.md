@@ -64,11 +64,18 @@ python EfficientSwin_proposed.py --batch_size 32 --epochs 35 --lr 0.001 --save_f
 
 ## REFERENCES
 [14] Jung, Changhun, et al. "WBC image classification and generative models based on convolutional neural network." BMC Medical Imaging 22.1 (2022): 1-16.
+<hr />
 [15] Acevedo, Andrea, et al. "Recognition of peripheral blood cell images using convolutional neural networks." Computer methods and programs in biomedicine 180 (2019): 105020.
+<hr />
 [16] Qin, Feiwei, et al. "Fine-grained leukocyte classification with deep residual learning for microscopic images." Computer methods and programs in biomedicine 162 (2018): 243-252.
+<hr />
 [17] Sharma, Mayank, Aishwarya Bhave, and Rekh Ram Janghel. "White blood cell classification using convolutional neural network." Soft Computing and Signal Processing: Proceedings of ICSCSP 2018, Volume 1. Springer Singapore, 2019.
+<hr />
 [18] Zhao, Jianwei, et al. "Automatic detection and classification of leukocytes using convolutional neural networks." Medical & biological engineering & computing 55 (2017): 1287-1301.
+<hr />
 [19] Ma, Li, et al. "Combining DC-GAN with ResNet for blood cell image classification." Medical & biological engineering & computing 58 (2020): 1251-1264.
+<hr />
 [20] Şengür, Abdulkadir, et al. "White blood cell classification based on shape and deep features." 2019 International Artificial Intelligence and Data Processing Symposium (IDAP). Ieee, 2019.
+<hr />
 [21] Yang, Jiancheng, et al. "MedMNIST v2-A large-scale lightweight benchmark for 2D and 3D biomedical image classification." Scientific Data 10.1 (2023): 41.
 
