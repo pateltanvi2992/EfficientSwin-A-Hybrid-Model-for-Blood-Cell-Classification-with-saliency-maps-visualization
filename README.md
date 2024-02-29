@@ -26,6 +26,8 @@ Download the pretrained weights and run the following command for evaluation and
 python EfficientSwin.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig training_validation_accuracy.png
 ```
 <hr />
+
+## Model performance  
 ![results](training_and_validation_accuracy.png)
 
 ## Comparison with Previous models on blood cell calssification
