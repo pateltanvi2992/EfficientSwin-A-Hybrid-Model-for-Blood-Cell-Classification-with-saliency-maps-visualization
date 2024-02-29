@@ -61,6 +61,9 @@ python EfficientSwin_proposed.py --batch_size 32 --epochs 35 --lr 0.001 --save_f
 ## Comparison with previoud models on bloodMNIST dataset
 ![results](Table_compare_BloodMNIST.PNG)
 
+## Saliency map on test set
+![results](saliency_maps (2).PNG)
+
 
 ## REFERENCES
 * [14] Jung, Changhun, et al. "WBC image classification and generative models based on convolutional neural network." BMC Medical Imaging 22.1 (2022): 1-16.
