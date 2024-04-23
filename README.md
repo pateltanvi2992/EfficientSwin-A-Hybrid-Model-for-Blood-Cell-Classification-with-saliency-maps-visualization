@@ -19,33 +19,7 @@ python -m medmnist available
 ```
 
 <hr />
-
-## Base model training 
-Download the pretrained weights and run the following command for evaluation and training of base models on bloodMNIST dataset.
-1. Swin transformer 
-```shell
-python Swin.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig training_validation_accuracy_swin.png
-```
-2. EfficientNet-B0 
-```shell
-python EfficientNet_b0.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig training_validation_accuracy_Eb0.png
-```
-3. EfficientNet-B1 
-```shell
-python python EfficientNet_b1.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig training_validation_accuracy_Eb1.png
-```
-3. EfficientNet-B2 
-```shell
-python python EfficientNet_b2.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig training_validation_accuracy_Eb2.png
-```
-3. EfficientNet-B3 
-```shell
-python python EfficientNet_b3.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig training_validation_accuracy_Eb3.png
-```
-
-<hr />
-
-## Evaluation of proposed hybrid model 
+## Training of proposed hybrid model 
 Download the pretrained weights and run the following command for evaluation and training of proposed hybrid model on bloodMNIST dataset. Make directory "models" in your current directory to save model. 
 ```shell
 python EfficientSwin_proposed.py --batch_size 32 --epochs 35 --lr 0.001 --save_fig training_validation_accuracy.png
