@@ -19,6 +19,7 @@ python -m medmnist available
 ```
 
 <hr />
+
 ## Training of proposed hybrid model 
 Download the pretrained weights and run the following command for evaluation and training of proposed hybrid model on bloodMNIST dataset. Make directory "models" in your current directory to save model. 
 ```shell
