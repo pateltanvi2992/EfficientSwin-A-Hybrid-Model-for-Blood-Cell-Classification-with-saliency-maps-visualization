@@ -39,6 +39,9 @@ python EfficientSwin_proposed.py --batch_size 32 --epochs 35 --lr 0.001 --save_f
 ## Saliency map on test set
 ![results](saliency_maps.png)
 
+## Saliency map analysis in pattern recognition 
+
+
 ## REFERENCES
 * [14] Jung, Changhun, et al. "WBC image classification and generative models based on convolutional neural network." BMC Medical Imaging 22.1 (2022): 1-16.
 * [15] Acevedo, Andrea, et al. "Recognition of peripheral blood cell images using convolutional neural networks." Computer methods and programs in biomedicine 180 (2019): 105020.
