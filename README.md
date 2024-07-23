@@ -40,6 +40,7 @@ python EfficientSwin_proposed.py --batch_size 32 --epochs 35 --lr 0.001 --save_f
 ![results](saliency_maps.png)
 
 ## Saliency map analysis in pattern recognition 
+![results](SaliencyMaps.png)
 
 
 ## REFERENCES
